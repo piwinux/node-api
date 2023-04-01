@@ -1,0 +1,9 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Bruno Lemarchand",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
